@@ -2,11 +2,11 @@
   "name": "atom-snapshot",
   "version": "0.0.1",
   "dependencies": {
-    "phantomjs": "~1.9.7-3",
-    "nopt": "~2.2.0",
-    "promise": "~4.0.0",
-    "xml2js": "~0.4.2",
-    "lodash": "~2.4.1"
+    "phantomjs": "1.9.7-3",
+    "nopt": "2.2.0",
+    "promise": "4.0.0",
+    "xml2js": "0.4.2",
+    "lodash": "2.4.1"
   },
   "main": "./lib/index",
   "bin": {
