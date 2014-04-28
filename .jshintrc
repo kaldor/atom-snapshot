@@ -21,7 +21,6 @@
     "smarttabs": true,
     "white": false,
     "globals": {
-        "log": false,
         "alert": false,
         "define": false,
         "describe": false,
