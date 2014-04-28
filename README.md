@@ -20,6 +20,7 @@ npm install -g atom-snapshot
     --outputDir           Choose where to output your screenshots
     --width               Snapshot width as a number
     --height              Snapshot height as a number
+    --quality             Snapshot image quality as a number between 0 and 100. Defaults to 100
 ```
 
 ## License
