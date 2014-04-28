@@ -11,11 +11,10 @@ npm install -g atom-snapshot
 ## Usage
 
 ```
- $ atom-snapshot [options]
+ $ atom-snapshot http://domain.com/atom.xml [options]
 
    Options:
 
-    --feed                Location of your atom feed
     --format              Either png, jpeg, gif, pdf
     --outputDir           Choose where to output your screenshots
     --width               Snapshot width as a number
