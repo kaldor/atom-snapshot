@@ -19,6 +19,7 @@ npm install -g atom-snapshot
     --outputDir           Choose where to output your screenshots. Defaults to ./snapshots
     --width               Snapshot width as a number. Defaults to 768
     --height              Snapshot height as a number. Defaults to 1024
+    --dimensions          Specify multiple dimensions to take snapshots at, e.g. --dimensions 1024x768 --dimensions 320x576
     --quality             Snapshot image quality as a number between 0 and 100. Defaults to 100
 ```
 
